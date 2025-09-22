@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+@font-face {
+    font-family: "Queen-Veronica";
+    src: url(./fonts/queen-veronica.ttf);
+}
+
+@font-face {
+    font-family: "Lydian";
+    src: url(./fonts/Lydian\ Italic\ AT.TTF);
+}
